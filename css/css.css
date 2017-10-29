@@ -1,0 +1,16 @@
+.footer{
+    height: 60px;
+    line-height: 60px;
+    background-color: #f8f8f8;
+    border-top: 1px solid #e7e7e7;
+}
+.content-principal{
+	padding-top: 60px;
+	padding-bottom: 90px;
+}
+
+.widget {
+	height: 400px;
+	overflow-y:auto;
+	border: 1px solid #e7e7e7;
+}
