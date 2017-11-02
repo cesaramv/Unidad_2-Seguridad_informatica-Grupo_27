@@ -45,7 +45,7 @@ body{
 	  color: #66757f;
 	*/
 }
-.ColorTt, .active a{
+.ColorTt, .active a:first-child {
 	color: #005883 !important;
 	font-weight: bold;
 }
